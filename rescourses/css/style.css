@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Common Altenshardian;
+    src: url(./CommonAltenshardian-Regular\ \(2\).ttf);
+}
+
+#alt {font-family: Common Altenshardian;
+font-size: larger;
+}
+li {font-size: large;}
+* {font-family: 'Times New Roman', Times, serif;}
